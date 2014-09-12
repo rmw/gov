@@ -1,0 +1,3 @@
+class LegislationsController < ApplicationController
+
+end
